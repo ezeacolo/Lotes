@@ -1,1 +1,3 @@
 # Lotes
+
+Readme information file
